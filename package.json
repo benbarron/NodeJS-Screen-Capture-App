@@ -1,0 +1,15 @@
+{
+  "name": "electron-screen-record",
+  "version": "1.0.0",
+  "description": "Simple Screen Recording App In Node JS",
+  "main": "src/main.js",
+  "dependencies": {
+    "electron": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
