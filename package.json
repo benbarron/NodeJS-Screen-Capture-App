@@ -4,7 +4,7 @@
   "description": "Simple Screen Recording App In Node JS",
   "main": "src/main.js",
   "dependencies": {
-    "electron": "^8.2.0"
+    "electron": "^18.3.7"
   },
   "devDependencies": {},
   "scripts": {
